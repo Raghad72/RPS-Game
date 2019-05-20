@@ -13,5 +13,5 @@ The computer player strategies are the following:
 
 ## Installition
 1. Clone/Download  the project repository [here](https://github.com/Raghad72/RPS-Game)
-2.Open the trminal and and `cd` to the project directory
-3.Run `python kind.py` or `python3 kind.py` and follow the instruction on the screen
+2. Open the trminal and and `cd` to the project directory
+3. Run `python kind.py` or `python3 kind.py` and follow the instruction on the screen
