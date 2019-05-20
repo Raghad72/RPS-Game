@@ -12,6 +12,6 @@ The computer player strategies are the following:
 - CyclePlayer - cycles through each choice in order
 
 ## Installition
-1. Clone/Download  the project repository [here](https://github.com/Raghad72/RPS-Game).
+1. Clone/Download  the project repository [here](https://github.com/Raghad72/RPS-Game)
 2.Open the trminal and and `cd` to the project directory
-3. Run `python kind.py` or `python3 kind.py` and follow the instruction on the screen
+3.Run `python kind.py` or `python3 kind.py` and follow the instruction on the screen
